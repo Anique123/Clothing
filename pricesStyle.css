@@ -26,13 +26,17 @@ background-color: rgba(227, 188, 154, 0.8);
 background-opacity: 0.6;
 }
 
-p, blockquote, ul, ol, dl {
-  font-size: 18px;
-  margin-bottom: 1.2em;
-  line-height: 1.3em;
-  font-weight: bold;
-  font-style: "Varela Round", sans-serif;
+p, blockquote, ul, ol, dl, li {
+  font-size: 14px;
+  margin-bottom: 0,7em;
+  line-height: 1.5em;
+  font-weight: 600;
+  font-family: "Varela Round", sans-serif;
   }
+
+p {
+  margin-bottom: 1.2em;
+}
 
 strong, b { font-weight: bold; }
 em, i { font-style: italic; }
