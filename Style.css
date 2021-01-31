@@ -24,6 +24,9 @@ body {
 #divp {
 background-color: rgba(227, 188, 154, 0.8);
 background-opacity: 0.1;
+padding-left: 100px;
+padding-top: 50px;
+padding-bottom: 20px;
 }
 
 p, blockquote, ul, ol, dl, li {
@@ -100,13 +103,48 @@ video {
   }
 
 #content {
-  padding: 70px 0;
+  padding: 10px 0;
   }
 
 #page_body {
   width: 530px;
   margin: 0 auto;
   }
+
+.ptext1 {
+position: fixed;
+ font-size: 14px;
+  line-height: 1.5em;
+  font-weight: 600;
+  font-family: "Varela Round", sans-serif;
+  float:left;
+  bottom: 320pt;
+  left: 180pt;
+}
+
+.ptext2 {
+position: fixed;
+ font-size: 14px;
+  line-height: 1.5em;
+  font-weight: 600;
+  font-family: "Varela Round", sans-serif;
+  float:left;
+  bottom: 245pt;
+  left: 180pt;
+}
+
+.ptext3 {
+position: fixed;
+ font-size: 14px;
+  line-height: 1.5em;
+  font-weight: 600;
+  font-family: "Varela Round", sans-serif;
+  float:left;
+  bottom: 200pt;
+  left: 180pt;
+}
+
+
 
 
 /* --------------------------------------------------------------
