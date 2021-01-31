@@ -118,6 +118,41 @@ video {
   margin: 0;
   }
 
+.footer {
+  position: absolute;
+  height:24px;
+  width: 100%;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  position: fixed;
+  bottom: 0pt;
+  left: 0pt;
+    }
+
+.footer-text-left {
+  right: 0;
+  bottom: 0;
+  left: 0;
+  font-size:12px;
+  padding-left:20px;
+  float:left;
+  word-spacing:10px;
+  font-weight: 100;
+}
+
+.footer-text-right {
+  right: 0;
+  bottom: 0;
+  left: 0;
+  font-size:12px;
+  padding-right:20px;
+  float:right;
+  word-spacing:10px;
+  font-weight: 100;
+}
+
 #site_header header #store_name {
   box-sizing: border-box;
   -webkit-box-sizing: border-box;

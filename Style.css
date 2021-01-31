@@ -26,13 +26,16 @@ background-color: rgba(227, 188, 154, 0.8);
 background-opacity: 0.6;
 }
 
-p, blockquote, ul, ol, dl {
-  font-size: 18px;
-  margin-bottom: 1.2em;
-  line-height: 1.3em;
-  font-weight: bold;
-  font-style: "Varela Round", sans-serif;
+p, blockquote, ul, ol, dl, li {
+  font-size: 14px;
+  line-height: 1.5em;
+  font-weight: 600;
+  font-family: "Varela Round", sans-serif;
   }
+
+.p1 {
+  margin-bottom: 1.2em;
+}
 
 strong, b { font-weight: bold; }
 em, i { font-style: italic; }
@@ -160,6 +163,41 @@ video {
   padding-bottom: 10px;
   text-align: center;
   }
+
+.footer {
+  position: absolute;
+  height:24px;
+  width: 100%;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  position: fixed;
+  bottom: 0pt;
+  left: 0pt;
+    }
+
+.footer-text-left {
+  right: 0;
+  bottom: 0;
+  left: 0;
+  font-size:12px;
+  padding-left:20px;
+  float:left;
+  word-spacing:10px;
+  font-weight: 100;
+}
+
+.footer-text-right {
+  right: 0;
+  bottom: 0;
+  left: 0;
+  font-size:12px;
+  padding-right:20px;
+  float:right;
+  word-spacing:10px;
+  font-weight: 100;
+}
 
 #site_footer footer h3 {
   display: none;
