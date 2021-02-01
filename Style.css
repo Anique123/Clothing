@@ -127,11 +127,10 @@ video {
   background-position: 0% 0%;
   position: fixed;
   bottom: 160pt;
-  left: 200pt;
+  left: 180pt;
 }
 
 .ptext1 {
-position: fixed;
  font-size: 14px;
   line-height: 1.5em;
   font-weight: 600;
@@ -142,7 +141,6 @@ position: fixed;
 }
 
 .ptext2 {
-position: fixed;
  font-size: 14px;
   line-height: 1.5em;
   font-weight: 600;
@@ -153,7 +151,6 @@ position: fixed;
 }
 
 .ptext3 {
-position: fixed;
  font-size: 14px;
   line-height: 1.5em;
   font-weight: 600;
