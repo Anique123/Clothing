@@ -120,6 +120,7 @@ position: fixed;
   float:left;
   bottom: 320pt;
   left: 180pt;
+  margin: 0;
 }
 
 .ptext2 {
@@ -131,6 +132,7 @@ position: fixed;
   float:left;
   bottom: 245pt;
   left: 180pt;
+  margin: 0;
 }
 
 .ptext3 {
@@ -142,6 +144,7 @@ position: fixed;
   float:left;
   bottom: 200pt;
   left: 180pt;
+  margin: 0;
 }
 
 
