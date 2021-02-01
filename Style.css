@@ -20,7 +20,6 @@ body {
   text-rendering: optimizeLegibility;
   background: url('tailor.jpg') no-repeat center center fixed;;
   /*background-blend-mode: overlay;*/
-  overflow: auto;
   }
 
 
@@ -117,47 +116,37 @@ video {
   margin: 0 auto;
   }
 
-.infodiv {
-  position: absolute;
-  height:300px;
-  width: 100%;
-  background-image: none;
-  background-repeat: repeat;
-  background-attachment: scroll;
-  background-position: 0% 0%;
-  position: fixed;
-  bottom: 160pt;
-  left: 180pt;
-}
-
 .ptext1 {
+position: absolute;
  font-size: 14px;
   line-height: 1.5em;
   font-weight: 600;
   font-family: "Varela Round", sans-serif;
   float:left;
-  bottom: 300pt;
-  left: 180pt;
+  top: 90pt;
+  left: 15pt;
 }
 
 .ptext2 {
+position: absolute;
  font-size: 14px;
   line-height: 1.5em;
   font-weight: 600;
   font-family: "Varela Round", sans-serif;
   float:left;
-  bottom: 245pt;
-  left: 180pt;
+  top: 150pt;
+  left: 15pt;
 }
 
 .ptext3 {
+position: absolute;
  font-size: 14px;
   line-height: 1.5em;
   font-weight: 600;
   font-family: "Varela Round", sans-serif;
   float:left;
-  bottom: 200pt;
-  left: 180pt;
+  top: 220pt;
+  left: 15pt;
 }
 
 
