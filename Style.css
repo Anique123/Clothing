@@ -120,7 +120,7 @@ position: fixed;
   float:left;
   bottom: 320pt;
   left: 180pt;
-  margin: 0;
+  -webkit-backface-visibility: hidden;
 }
 
 .ptext2 {
@@ -132,7 +132,7 @@ position: fixed;
   float:left;
   bottom: 245pt;
   left: 180pt;
-  margin: 0;
+  -webkit-backface-visibility: hidden;
 }
 
 .ptext3 {
@@ -144,7 +144,7 @@ position: fixed;
   float:left;
   bottom: 200pt;
   left: 180pt;
-  margin: 0;
+  -webkit-backface-visibility: hidden;
 }
 
 
