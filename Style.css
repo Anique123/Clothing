@@ -149,6 +149,17 @@ position: absolute;
   left: 15pt;
 }
 
+.ptext4 {
+position: absolute;
+ font-size: 14px;
+  line-height: 1.5em;
+  font-weight: 600;
+  font-family: "Varela Round", sans-serif;
+  float:left;
+  top: 260pt;
+  left: 15pt;
+}
+
 
 
 
