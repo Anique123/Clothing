@@ -22,7 +22,7 @@ body {
 ::selection { background: yellow; color:#333; }
 
 #divp {
-background-color: rgba(227, 188, 154, 0.8);
+background-color: rgba(227, 188, 154, 0.9);
 background-opacity: 0.6;
 }
 

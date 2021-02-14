@@ -27,8 +27,8 @@ body {
 ::selection { background: yellow; color:#333; }
 
 #divp {
-background-color: rgba(227, 188, 154, 0.8);
-background-opacity: 0.1;
+background-color: rgba(227, 188, 154, 0.9);
+background-opacity: 0.4;
 padding-left: 100px;
 padding-top: 50px;
 padding-bottom: 20px;
@@ -40,6 +40,11 @@ p, blockquote, ul, ol, dl, li {
   font-weight: 600;
   font-family: "Varela Round", sans-serif;
   }
+
+li {
+  font-size: 16px;
+  font-weight: bold;
+}
 
 .p1 {
   margin-bottom: 1.2em;
